@@ -1,0 +1,43 @@
+h1,h2,p{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.image{
+    width: 100%;
+    height: 200px;
+}
+
+
+.content-div {
+    width: 90%;
+    display: grid;
+    margin: auto;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+}
+.search-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px; 
+}
+
+.search {
+    width: 300px; 
+    padding: 10px; 
+   
+}
+
+.parent{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.booking-button{
+  background-color: #003b95;
+  color: aliceblue;
+  border: none;
+  
+}
