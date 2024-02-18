@@ -16,10 +16,10 @@ backend/
 
 
   ## Video Walkthrough of the project
-Attach a very short video walkthough of all of the features [ 1 - 3 minutes ]
+https://drive.google.com/file/d/1SKs25Z5r79d4Gj8yFlbgOZk6z4tJm26j/view?usp=sharing
 
 ## Video Walkthrough of the codebase
-Attach a very short video walkthough of codebase [ 1 - 5 minutes ]
+https://drive.google.com/file/d/1swbLTJbu6cWIuhwN5VZQck0IksMJIMub/view?usp=sharing
 
 ## Features
 List out the key features of your application.
