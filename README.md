@@ -45,6 +45,11 @@ npm run start
 mazhar@gmail.com
 12345
 You can also create your own data for login puroose
+
+## ER Diagram
+
+https://drive.google.com/file/d/1IIC5R-fmYB4D8ecK8599hHOP5_MlqHhi/view?usp=sharing
+
 ## API Endpoints
 In case of Backend Applications provide a list of your API endpoints, methods, brief descriptions, and examples of request/response.
 
