@@ -7,11 +7,12 @@ const HoustRouter=require("./route/host.route")
 const PropertyRoute=require("./route/property.route")
 const GuestRoute=require("./route/guest.route")
 const BookingRouter=require("./route/booking.route")
+const error=require("./middleware/error")
 const auth=require("./middleware/authenticiation")
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }));
 app.use(cors())
-
+app.use(error)
 app.use("/host",HoustRouter)
 app.use("/guest",GuestRoute)
 app.use("/property",PropertyRoute)
